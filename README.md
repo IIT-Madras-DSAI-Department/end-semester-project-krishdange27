@@ -6,7 +6,8 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
+> Give an introduction to your repository here:
+> these contain three files , algorithm.py main.py and a report.
 
 ---
 
@@ -25,7 +26,7 @@ This repository is the **starter** for your End Semester Project submission in G
 ## 📦 Installation & Dependencies
 
 * Mention all the related instructions for installation of related packages for running your code here.
-
+just used normal packeges like pandas , numpy , matplotlib, spicy , sklearn(only for f1_score, accuracy_score, confusion_matrix, classification_report )
 ---
 
 ## ▶️ Running the Code
@@ -44,7 +45,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<krish dange , DA24B011>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
